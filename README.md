@@ -1,6 +1,7 @@
 # DMPS Solutions Marketplace
 
-[![DMPS Solutions]](https://www.dmpssolutions.com/)
+[![DMPS SOLUTIONS]](https://www.dmpssolutions.com/)
+[![DMPS APPS]](https://services-dmpssolutions-bh7cl6sucq-uc.a.run.app/)
 > **Empowering Business Through Innovation**  
 > Your central hub for downloading and managing enterprise solutions, mobile applications, and digital tools developed by **DMPS Solutions Pvt. Ltd.**
 
