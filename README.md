@@ -1,6 +1,6 @@
 # DMPS Solutions Marketplace
 
-[![DMPS Solutions]([https://shields.io](https://www.dmpssolutions.com/Office_logo.png))](https://www.dmpssolutions.com/)
+[![DMPS Solutions]](https://www.dmpssolutions.com/)
 > **Empowering Business Through Innovation**  
 > Your central hub for downloading and managing enterprise solutions, mobile applications, and digital tools developed by **DMPS Solutions Pvt. Ltd.**
 
