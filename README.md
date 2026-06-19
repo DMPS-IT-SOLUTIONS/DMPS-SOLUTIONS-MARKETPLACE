@@ -65,7 +65,7 @@ Beyond our marketplace apps, we specialize in custom development:
 Need help with installation or want to request a custom feature? Reach out to our support team.
 
 *   **Website:** [www.dmpssolutions.com](https://www.dmpssolutions.com/)
-*   **Email:** dmpssolutions@gmail.com
+*   **Email:** business@dmpssolutions.com
 *   **Location:** Dumduma, Bhubaneswar, Odisha, India - 751019
 
 ---
